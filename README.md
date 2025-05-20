@@ -2,7 +2,8 @@
 
 Memezzy is a modern, cloud-based meme sharing platform that allows users to upload, share, and interact with memes in a sleek, user-friendly interface.
 
-![Memezzy App Screenshot](https://github.com/user-attachments/assets/da48adf9-3ec0-4158-91c8-012ba16a6fbe)
+![Memezzy App Screenshot]
+![Screenshot 2025-05-20 113532](https://github.com/user-attachments/assets/37e7f550-b4b3-49f9-8336-7bb043c0de6a)
 
 ## ✨ Features
 
@@ -27,13 +28,15 @@ Memezzy is a modern, cloud-based meme sharing platform that allows users to uplo
 ## 📸 Screenshots
 
 ### Trending Memes Feed
-![Meme Feed](https://github.com/user-attachments/assets/da48adf9-3ec0-4158-91c8-012ba16a6fbe)
+![Meme Feed]![Screenshot 2025-05-20 113532](https://github.com/user-attachments/assets/c4dc23cb-6fda-4b7b-a331-1dda178102fa)
+
 
 ### Authentication Modal
-![Auth Modal](https://github.com/user-attachments/assets/6c893ffc-0684-42be-ade9-8538d2561495)
+![Auth Modal]![Screenshot 2025-05-20 113550](https://github.com/user-attachments/assets/a24f0206-10ed-4aab-b566-5f11a808e22e)
 
 ### Upload Interface
-![Upload Interface](https://github.com/user-attachments/assets/321aebb0-fc9c-4198-8b01-ca4384645000)
+![Upload Interface]![Screenshot 2025-05-20 113621](https://github.com/user-attachments/assets/98f042f6-c0fe-4eff-81d9-545646c2d70e)
+
 
 ## 💻 Installation & Setup
 
